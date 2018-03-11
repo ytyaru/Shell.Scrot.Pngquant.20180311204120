@@ -1,0 +1,24 @@
+# gitで管理しないファイル
+*.URL
+*.BAK
+*.pyc
+*.sqlite3
+*.7z
+コピー ～ *
+コピー (*
+* (コピー).*
+* (別のコピー).*
+* (*番目のコピー).*
+old/
+__*
+#_src/
+#_sqlite/
+#__init__.py
+#.gitignore
+#*.json
+#*.html
+#*.yml
+#meta_*
+#memo.md
+#HatenaBlog*
+
